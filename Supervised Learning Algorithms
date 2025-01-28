@@ -1,0 +1,13 @@
+Supervised learning is when the model is trained on labeled data (input-output pairs).
+
+- Linear Regression: Predicts a continuous value.
+- Logistic Regression: Used for binary classification.
+- Support Vector Machine (SVM): Classifies data by finding the hyperplane that best separates the classes.
+- Decision Trees: Splits data into branches to make predictions.
+- Random Forest: An ensemble method that uses multiple decision trees.
+- K-Nearest Neighbors (KNN): Classifies data based on the majority class of the nearest neighbors.
+- Naive Bayes: A probabilistic classifier based on Bayes' theorem.
+- Gradient Boosting Machines (GBM): Ensemble technique that builds strong models by combining weak ones.
+- XGBoost (Extreme Gradient Boosting): A faster and more efficient variant of GBM.
+- LightGBM: A gradient boosting framework that uses tree-based learning algorithms.
+- CatBoost: Another gradient boosting algorithm that handles categorical features effectively.
